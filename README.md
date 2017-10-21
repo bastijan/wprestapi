@@ -13,5 +13,5 @@ If you have a URL GET parameters you should put parameters name and type in filt
 
 This example contans some endpoints for Woocommerce with WC Vendors and Wordpress
 
-All endpoints you can showed on www.your-domain.com/data
+All endpoints you can show on www.your-domain.com/data
 
