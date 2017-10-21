@@ -11,3 +11,7 @@ SQL queries is in moduleQueryHandler.class.php
 
 If you have a URL GET parameters you should put parameters name and type in filter.inc.php and filter.class.php
 
+This example contans some endpoints for Woocommerce with WC Vendors and Wordpress
+
+All endpoints you can showed on www.your-domain.com/data
+
